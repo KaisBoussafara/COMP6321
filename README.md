@@ -1,1 +1,1 @@
-# COMP6321
+COMP6321-GroupG
